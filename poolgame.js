@@ -1,4 +1,6 @@
 import zim from "https://zimjs.org/cdn/02/zim";
+import "https://zimjs.org/cdn/02/zim_physics.js";
+
 //import "https://zimjs.org/cdn/Box2dWeb-2.1.a.3.min.js";
 //import "https://zimjs.org/cdn/physics_2.1.js";
 
